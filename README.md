@@ -1,4 +1,4 @@
-# friend-finder2
+# Friend Finder
 Week Thirteen Homework
 ----
 
